@@ -1,0 +1,5 @@
+print("goodbye";)
+print("goodbye1";)
+print("goodbye2";)
+print("goodbye3";)
+print("goodbye4";)
